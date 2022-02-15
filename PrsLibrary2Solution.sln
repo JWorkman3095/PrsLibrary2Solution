@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrsLibrary2", "PrsLibrary2\PrsLibrary2.csproj", "{4AB4AFE4-3DE1-4E4E-B985-7C5799397EDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPrsLibrary2", "TestPrsLibrary2\TestPrsLibrary2.csproj", "{EEE2F404-DFB4-4CBD-8F70-F4B8D5F460F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AB4AFE4-3DE1-4E4E-B985-7C5799397EDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AB4AFE4-3DE1-4E4E-B985-7C5799397EDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AB4AFE4-3DE1-4E4E-B985-7C5799397EDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AB4AFE4-3DE1-4E4E-B985-7C5799397EDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEE2F404-DFB4-4CBD-8F70-F4B8D5F460F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEE2F404-DFB4-4CBD-8F70-F4B8D5F460F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEE2F404-DFB4-4CBD-8F70-F4B8D5F460F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEE2F404-DFB4-4CBD-8F70-F4B8D5F460F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39C6915E-2401-4AA4-B5B1-058970328512}
+	EndGlobalSection
+EndGlobal
